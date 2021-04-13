@@ -11,7 +11,7 @@ repeat([1,2,3]) //[1,2,3,1,2,3,1,2,3]
 ```
 Your solution:
 
-####My Solution in file task1.php
+My Solution in file task1.php
 
 ###### If we type in our console your function and repeat([1,2,3]) then the result should be [1,2,3,1,2,3,1,2,3] 
 
