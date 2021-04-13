@@ -10,6 +10,7 @@ Make this work (repeat 3 times the contents of an array):
 repeat([1,2,3]) //[1,2,3,1,2,3,1,2,3]
 ```
 Your solution:
+
 ##My Solution in file task1.php
 
 ###### If we type in our console your function and repeat([1,2,3]) then the result should be [1,2,3,1,2,3,1,2,3] 
@@ -20,7 +21,8 @@ Make this work (no vowels, lowercase except the first letter):
 reformat("liMeSHArp DeveLoper TEST") //Lmshrp dvlpr tst
 ```
 Your solution:
-#My Solution in file task2.php
+
+##My Solution in file task2.php
 
 ###### If we type in our console your function and reformat("liMeSHArp DeveLoper TEST") then the result should be Lmshrp dvlpr tst
 
@@ -38,7 +40,8 @@ next_binary_number([1,0]) // [1,1]
 // [1,0,0,0,0,0,0,0,0,1] => [1,0,0,0,0,0,0,0,1,0]
 ```
 Your solution:
-#My Solution in file task3.php
+
+##My Solution in file task3.php
 
 ###### If we type in our console your function and next_binary_number([1,0,0,0,0,0,0,0,0,1]) then the result should look like 1,0,0,0,0,0,0,0,1,0 (or as an array).
 
